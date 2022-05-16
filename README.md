@@ -47,6 +47,7 @@ This is a screenshot of the generated HTML webpage.
 ![Team Generator HTML Webpage Screenshot](./assets/html-render-screenshot.png)
 
 ## Walkthrough Video
+[Link to Google](https://drive.google.com/file/d/1lbDvg_D_3kqpfoI_SC31_UnLj2FVyhwt/view)
 ![Team Generator Walkthrough Video via google drive](https://drive.google.com/file/d/1lbDvg_D_3kqpfoI_SC31_UnLj2FVyhwt/view)
 ## Credits
 - Bootstrap: https://getbootstrap.com/
